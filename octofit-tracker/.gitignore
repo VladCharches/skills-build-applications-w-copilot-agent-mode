@@ -1,0 +1,9 @@
+# Ignore virtual environment
+backend/venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Editor directories and files
+.vscode/
